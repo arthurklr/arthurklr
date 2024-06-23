@@ -25,8 +25,11 @@
 
 ###
 
+
+<h3 align='left'>Lien :</h3>
+
 <div align="left">
- <a href='https://www.linkedin.com/in/arthur-kientzler/'><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+ <a href='https://www.linkedin.com/in/arthur-kientzler/'><img src="https://static.vecteezy.com/system/resources/previews/023/986/970/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" height="35" alt="linkedin logo"  /></a>
   <a href='https://arthurklr.github.io/'><img src="https://seeklogo.com/images/A/adobe-portfolio-logo-A289F53AF8-seeklogo.com.png" height="35" alt="portfolio logo"></a>
 </div>
 
